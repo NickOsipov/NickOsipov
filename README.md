@@ -2,8 +2,6 @@
 
 My name is Nick and I'm a Data Scientist living in Saint-Petersburg.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/1lvotGQwhzi6O0gQtV/giphy.gif" width="240" height="180" />
-
 - 🧲 I’m interested in Time Series and RL
 - 🚬 I’m currently learning DL
 - 👀 I’m looking to collaborate on Kaggle
