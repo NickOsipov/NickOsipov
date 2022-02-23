@@ -2,7 +2,7 @@
 
 My name is Nick and I'm a Data Scientist living in Saint-Petersburg.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="240" height="180" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/1lvotGQwhzi6O0gQtV/giphy.gif" width="240" height="180" />
 
 - 🧲 I’m interested in Time Series and RL
 - 🚬 I’m currently learning DL
