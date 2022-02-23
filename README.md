@@ -1,4 +1,4 @@
-## Hi! 
+## Hi!  <img src="https://media.giphy.com/media/QynPOjBgLR5Ryg1qKJ/giphy.gif" alt="GIF" width="25" height="25">
 
 My name is Nick and I'm a Data Scientist living in Saint-Petersburg.
 
