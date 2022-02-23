@@ -1,8 +1,8 @@
-## Hi! <iframe src="https://giphy.com/embed/QynPOjBgLR5Ryg1qKJ" width="25" height="25" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/catpowell-hi-QynPOjBgLR5Ryg1qKJ">via GIPHY</a></p>
+## Hi! 
 
 My name is Nick and I'm a Data Scientist living in Saint-Petersburg.
 
-<img align="right" alt="GIF" src="https://giphy.com/embed/citBl9yPwnUOs" width="240" height="180" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="240" height="180" />
 
 - 👀 I’m interested in Time Series and RL
 - 🌱 I’m currently learning DL
