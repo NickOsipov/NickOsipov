@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/QynPOjBgLR5Ryg1qKJ/giphy.gif" alt="GIF" width="40" height="40">
 
-My name is Nick and I'm a Data Scientist living in Saint-Petersburg.
+My name is Nick and I'm a Data Scientist living in Saint-Petersburg, Russia.
 
 - 🧲 I’m interested in Time Series and RL
 - 🚬 I’m currently learning DL
