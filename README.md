@@ -9,8 +9,8 @@ My name is Nick and I'm a Data Scientist living in Saint-Petersburg.
 
 ## Skills
 - 🎹 Python, R
-- 🎲 TensorFlow, PyTorch, TS, CV, Deep Learning
 - 🧰 Pandas, NumPy, SciPy, SciKit-Learn, LGBM/XGBoost/CatBoost
+- 🎲 TensorFlow, PyTorch, TS, CV, Deep Learning
 - 📊 Plotly, Seaborn, Matplotlib
 - 💾 SQL, PostgreSQL, ClickHouse, Docker, Flask  
   
