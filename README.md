@@ -12,7 +12,7 @@ My name is Nick and I'm a Data Scientist living in Saint-Petersburg, Russia.
 - 🧰 Pandas, NumPy, SciPy, SciKit-Learn, LGBM/XGBoost/CatBoost, Prophet
 - 🎲 TensorFlow, PyTorch, TS, CV
 - 📊 Plotly, Dash, Streamlit, Seaborn, Matplotlib
-- 💾 SQL, PostgreSQL, ClickHouse, Docker, Flask  
+- 💾 SQL, PostgreSQL, ClickHouse, Docker, Flask, FastAPI  
   
 <!---
 NickOsipov/NickOsipov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
