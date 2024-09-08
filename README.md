@@ -1,14 +1,15 @@
 <img src="https://media.giphy.com/media/QynPOjBgLR5Ryg1qKJ/giphy.gif" alt="GIF" width="40" height="40">
 
-My name is Nick and I'm a Data Scientist living in Batumi, Georgia.
+My name is Nick! 
+I'm a MLOps Engineer living in Batumi, Georgia.
 
-- 🧲 I’m interested in Time Series and RL
-- 🚬 I’m currently learning DL
-- 👀 I’m looking to collaborate on Kaggle
-- 💬 How to reach me: [Telegram](https://t.me/NickOsipov), [LinkedIn](https://www.linkedin.com/in/nick-osipov-b3892720a/)
+- 🧲 I’m interested in doing Data Science working pipeline easier.
+- 🚬 I’m currently learning Kubernetes and AWS
+- 👀 I’m looking to collaborate on start-up or open-source project.
+- 💬 How to reach me: [Telegram](https://t.me/NickOsipov), [LinkedIn](https://www.linkedin.com/in/nick-osipov/)
 
 ## Skills
-- 🎹 Python, R
+- 🎹 Python, R, PHP
 - 🧰 Pandas, NumPy, SciPy, SciKit-Learn, LGBM/XGBoost/CatBoost, Prophet
 - 🎲 TensorFlow, PyTorch, TS, CV
 - 📊 Plotly, Dash, Streamlit, Seaborn, Matplotlib
