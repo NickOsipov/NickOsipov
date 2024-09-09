@@ -13,7 +13,8 @@ I'm a MLOps Engineer living in Batumi, Georgia.
 - 🧰 Pandas, NumPy, SciPy, SciKit-Learn, LGBM/XGBoost/CatBoost, Prophet
 - 🎲 TensorFlow, PyTorch, TS, CV
 - 📊 Plotly, Dash, Streamlit, Seaborn, Matplotlib
-- 💾 SQL, PostgreSQL, ClickHouse, Docker, Flask, FastAPI  
+- 💾 SQL, PostgreSQL, ClickHouse, Docker, Flask, FastAPI
+- 🥨 Airflow, MLflow, DVC, ClearML
   
 <!---
 NickOsipov/NickOsipov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
