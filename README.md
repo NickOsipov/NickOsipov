@@ -6,7 +6,7 @@ I'm a MLOps Engineer living in Batumi, Georgia.
 - 🧲 I’m interested in doing Data Science working pipeline easier.
 - 🚬 I’m currently learning Kubernetes and AWS
 - 👀 I’m looking to collaborate on start-up or open-source project.
-- 💬 How to reach me: [Telegram](https://t.me/NickOsipov), [LinkedIn](https://www.linkedin.com/in/nick-osipov/)
+- 💬 How to reach me: [Telegram](https://t.me/NickOsipov), [LinkedIn](https://www.linkedin.com/in/nickosipov/)
 
 ## Skills
 - 🎹 Python, R, PHP
