@@ -4,19 +4,26 @@ My name is Nick!
 I'm a MLOps Engineer living in Batumi, Georgia.
 
 - 🧲 I’m interested in doing Data Science workflow easier.
-- 🚬 I’m currently learning Kubernetes and AWS
-- 👀 I’m looking to collaborate on start-up or open-source project.
+- 🚬 I’m currently learning Kubernetes, AWS and LLMOps.
+- 👀 I’m looking to collaborate on LLM start-up or open-source project.
 - 💬 How to reach me: [Telegram](https://t.me/NickOsipov), [LinkedIn](https://www.linkedin.com/in/nickosipov/)
 
 ## Skills
-- 🎹 Python, R, PHP
-- 🧰 Pandas, NumPy, SciPy, SciKit-Learn, LGBM/XGBoost/CatBoost, Prophet
-- 🎲 TensorFlow, PyTorch, TS, CV
-- 📊 Plotly, Dash, Streamlit, Seaborn, Matplotlib
-- 💾 SQL, PostgreSQL, ClickHouse, Flask, FastAPI
-- 🥨 Airflow, MLflow, DVC, ClearML
-- 📦 Linux, Bash, Git, Docker, Ansible, Terraform, Kubernetes, Helm
-- 📫 GitLab CI/CD, GitHub Actions, Jenkins
+- 🐍 Python, R, SQL, PHP
+- 🔧 VS Code, PyCharm, Jupyter Notebook/Lab, DataGrip, dbeaver, RStudio
+- 🧮 Numpy, Pandas, SciPy, Statmodels
+- 📊 Plotly, Dash, Seaborn, Matplotlib, Grafana, Tableau
+- 🤖 Scikit-Learn, XGBoost/LightGBM/CatBoost, Prophet
+- 🧠 PyTorch, Keras, TensorFlow
+- 💾 ClickHouse, MySQL, Oracle, PostgreSQL
+- 📦 S3, Aerospike, Redis, MongoDB, HDFS
+- 🌐 FastAPI, Dash, Streamlit, Flask, Gradio
+- 🐧 Linux, Bash, Git, Docker
+- ⚙️ Ansible, Terraform, Kubernetes, Helm
+- ☁️ Yandex.Cloud
+- 🔄 GitLab CI/CD, GitHub Actions, Jenkins
+- 📈 MLflow, Clear ML, DVC, Weights & Biases
+- 🔍 Sentry, Grafana, Prometheus
   
 <!---
 NickOsipov/NickOsipov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
