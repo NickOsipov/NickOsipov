@@ -21,7 +21,7 @@ I'm a MLOps Engineer living in Batumi, Georgia.
 - 🐧 Linux, Bash, Git, Docker
 - ⚙️ Ansible, Terraform, Kubernetes, Helm
 - ☁️ Yandex.Cloud
-- 🔄 GitLab CI/CD, GitHub Actions, Jenkins
+- 🔄 GitLab CI/CD, GitHub Actions, Jenkins, BitBucket Pipelines
 - 📈 MLflow, Clear ML, DVC, Weights & Biases
 - 🔍 Sentry, Grafana, Prometheus
   
