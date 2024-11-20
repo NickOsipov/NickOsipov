@@ -27,7 +27,7 @@ I'm a MLOps Engineer living in Batumi, Georgia.
 
 ## Resume
 
-English version: [Resume_OsipovNO_MLOps_EN.pdf](https://github.com/NickOsipov/resume/blob/main/Resume_OsipovNO_MLOps_EN.pdf)
+English version: [Resume_OsipovNO_MLOps_EN.pdf](https://github.com/NickOsipov/resume/blob/main/Resume_OsipovNO_MLOps_EN.pdf)  
 Russian version: [Resume_OsipovNO_MLOps_RU.pdf](https://github.com/NickOsipov/resume/blob/main/Resume_OsipovNO_MLOps_RU.pdf)
   
 <!---
