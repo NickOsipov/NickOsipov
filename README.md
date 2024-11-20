@@ -27,7 +27,8 @@ I'm a MLOps Engineer living in Batumi, Georgia.
 
 ## Resume
 
-[EN/RU](https://github.com/NickOsipov/resume/tree/main)
+English version: [Resume_OsipovNO_MLOps_EN.pdf](https://github.com/NickOsipov/resume/blob/main/Resume_OsipovNO_MLOps_EN.pdf)
+Russian version: [Resume_OsipovNO_MLOps_RU.pdf](https://github.com/NickOsipov/resume/blob/main/Resume_OsipovNO_MLOps_RU.pdf)
   
 <!---
 NickOsipov/NickOsipov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
