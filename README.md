@@ -8,6 +8,10 @@ I'm a MLOps Engineer living in Batumi, Georgia.
 - 👀 I’m looking to collaborate on LLM start-up or open-source project.
 - 💬 How to reach me: [Telegram](https://t.me/NickOsipov), [LinkedIn](https://www.linkedin.com/in/nickosipov/)
 
+## Resume
+
+[EN/RU](https://github.com/NickOsipov/resume/tree/main)
+
 ## Skills
 - 🐍 Python, R, SQL, PHP
 - 🔧 VS Code, PyCharm, Jupyter Notebook/Lab, DataGrip, dbeaver, RStudio
