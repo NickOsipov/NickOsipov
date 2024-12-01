@@ -12,10 +12,10 @@ I'm a MLOps Engineer living in Batumi, Georgia.
 - 🐍 Python, R, SQL, PHP, Ruby
 - 🔧 VS Code, PyCharm, Jupyter Notebook/Lab, DataGrip, dbeaver, RStudio
 - 🔄 GitLab CI/CD, GitHub Actions, Jenkins, BitBucket Pipelines
+- 🐙 Airflow, Prefect
 - 📈 MLflow, Clear ML, DVC, Weights & Biases
 - 🐧 Linux, Bash, Git, Docker
 - ⚙️ Ansible, Terraform, Kubernetes, Helm
-- 🐙 Airflow, Prefect
 - 🧮 Numpy, Pandas, SciPy, Statmodels
 - 📊 Plotly, Dash, Seaborn, Matplotlib, Grafana, Tableau
 - 🤖 Scikit-Learn, XGBoost/LightGBM/CatBoost, Prophet
