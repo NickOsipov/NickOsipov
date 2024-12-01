@@ -9,7 +9,7 @@ I'm a MLOps Engineer living in Batumi, Georgia.
 - 💬 How to reach me: [Telegram](https://t.me/NickOsipov), [LinkedIn](https://www.linkedin.com/in/nickosipov/)
 
 ## Skills
-- 🐍 Python, R, SQL, PHP
+- 🐍 Python, R, SQL, PHP, Ruby
 - 🔧 VS Code, PyCharm, Jupyter Notebook/Lab, DataGrip, dbeaver, RStudio
 - 🧮 Numpy, Pandas, SciPy, Statmodels
 - 📊 Plotly, Dash, Seaborn, Matplotlib, Grafana, Tableau
