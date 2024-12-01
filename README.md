@@ -1,5 +1,4 @@
 <img src="https://media.giphy.com/media/QynPOjBgLR5Ryg1qKJ/giphy.gif" alt="GIF" width="40" height="40">
-<img src="https://www.accuknox.com/wp-content/uploads/kubernetes-hero-animation.gif" alt="GIF" width="80" height="80">
 
 ## About Me
 
