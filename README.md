@@ -1,4 +1,7 @@
 <img src="https://media.giphy.com/media/QynPOjBgLR5Ryg1qKJ/giphy.gif" alt="GIF" width="40" height="40">
+<img src="https://www.accuknox.com/wp-content/uploads/kubernetes-hero-animation.gif" alt="GIF" width="80" height="80">
+
+## About Me
 
 My name is Nick! 
 I'm a MLOps Engineer living in Batumi, Georgia.
@@ -6,7 +9,15 @@ I'm a MLOps Engineer living in Batumi, Georgia.
 - 🧲 I’m interested in doing Data Science workflow easier.
 - 🚬 I’m currently learning K8s, AWS and LLMOps.
 - 👀 I’m looking to collaborate on LLM start-up or open-source project.
-- 💬 How to reach me: [Telegram](https://t.me/NickOsipov), [LinkedIn](https://www.linkedin.com/in/nickosipov/)
+
+## Contacts
+
+<a href="https://t.me/NickOsipov">
+    <img src="https://img.shields.io/badge/-@NickOsipov-1877F2?style=flat&logo=Telegram&logoColor=white" width="125"/>
+</a>
+<a href="https://www.linkedin.com/in/nickosipov/">
+    <img src="https://img.shields.io/badge/-Nick_Osipov-0A66C2?style=flat&logo=Linkedin&logoColor=white" width="118"/>
+</a>
 
 ## Skills
 - 🐍 Python, R, SQL, PHP, Ruby
@@ -28,8 +39,8 @@ I'm a MLOps Engineer living in Batumi, Georgia.
 
 ## Resume On LaTeX
 
-English version: [Resume_OsipovNO_MLOps_EN.pdf](https://github.com/NickOsipov/resume/blob/main/Resume_OsipovNO_MLOps_EN.pdf)  
-Russian version: [Resume_OsipovNO_MLOps_RU.pdf](https://github.com/NickOsipov/resume/blob/main/Resume_OsipovNO_MLOps_RU.pdf)
+English version: [Resume_NickOsipov_MLOps_EN.pdf](https://github.com/NickOsipov/resume/blob/main/Resume_OsipovNO_MLOps_EN.pdf)  
+Russian version: [Resume_NickOsipov_MLOps_RU.pdf](https://github.com/NickOsipov/resume/blob/main/Resume_OsipovNO_MLOps_RU.pdf)
   
 <!---
 NickOsipov/NickOsipov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
