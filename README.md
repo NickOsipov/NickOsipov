@@ -11,6 +11,10 @@ I'm a MLOps Engineer living in Batumi, Georgia.
 
 ## Contacts
 
+<a href="mailto:nick.osipov.91@gmail.com">
+    <img src="https://img.shields.io/badge/-nick.osipov.91%40gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" width="247"/>
+</a>
+
 <a href="https://t.me/NickOsipov">
     <img src="https://img.shields.io/badge/-@NickOsipov-1877F2?style=flat&logo=Telegram&logoColor=white" width="125"/>
 </a>
