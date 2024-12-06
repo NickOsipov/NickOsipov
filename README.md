@@ -35,7 +35,7 @@ I'm a MLOps Engineer living in Batumi, Georgia.
 - 🧠 PyTorch, Keras, TensorFlow
 - 💾 ClickHouse, MySQL, Oracle, PostgreSQL
 - 📦 S3, Aerospike, Redis, MongoDB, HDFS
-- 🌐 FastAPI, Dash, Streamlit, Flask, Gradio
+- 🌐 FastAPI, Flask, Dash, Streamlit, Gradio
 - ☁️ Yandex.Cloud
 - 🔍 Sentry, Grafana, Prometheus
 
