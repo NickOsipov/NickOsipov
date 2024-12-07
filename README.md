@@ -28,7 +28,7 @@ I'm a MLOps Engineer living in Batumi, Georgia.
 - 🐙 Airflow, Prefect
 - 📈 MLflow, Clear ML, DVC, Weights & Biases
 - 🐧 Linux, Bash, Git, Docker
-- ⚙️ Ansible, Terraform, Kubernetes, Helm
+- ⚙️ Terraform, Ansible, Kubernetes, Helm
 - 🧮 Numpy, Pandas, SciPy, Statmodels
 - 📊 Plotly, Dash, Seaborn, Matplotlib, Grafana, Tableau
 - 🤖 Scikit-Learn, XGBoost/LightGBM/CatBoost, Prophet
