@@ -34,7 +34,7 @@ I'm a MLOps Engineer living in Batumi, Georgia.
 - 🤖 Scikit-Learn, XGBoost/LightGBM/CatBoost, Prophet
 - 🧠 PyTorch, Keras, TensorFlow
 - 💾 ClickHouse, MySQL, Oracle, PostgreSQL
-- 📦 S3, Aerospike, Redis, MongoDB, HDFS
+- 📦 S3, Minio, Aerospike, Redis, MongoDB, HDFS
 - 🌐 FastAPI, Flask, Dash, Streamlit, Gradio
 - ☁️ Yandex.Cloud
 - 🔍 Sentry, Grafana, Prometheus
