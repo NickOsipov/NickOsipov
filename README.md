@@ -27,6 +27,7 @@ I'm a MLOps Engineer living in Batumi, Georgia.
 - 🔄 GitLab CI/CD, GitHub Actions, Jenkins, BitBucket Pipelines
 - 🐙 Airflow, Prefect
 - 📈 MLflow, Clear ML, DVC, Weights & Biases
+- 🔡 vLLM, LangChain, HuggingFace
 - 🐧 Linux, Bash, Git, Docker
 - ⚙️ Terraform, Ansible, Kubernetes, Helm
 - 🧮 Numpy, Pandas, SciPy, Statmodels
