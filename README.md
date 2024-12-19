@@ -2,11 +2,11 @@
 
 ## About Me
 
-My name is Nick! 
+My name is Nick!  
 I'm a MLOps Engineer living in Batumi, Georgia.
 
 - 🧲 I’m interested in doing Data Science workflow easier.
-- 🚬 I’m currently learning K8s, AWS and LLMOps.
+- 🚬 I’m currently learning k8s, AWS and LLMOps.
 - 👀 I’m looking to collaborate on LLM start-up or open-source project.
 
 ## Contacts
