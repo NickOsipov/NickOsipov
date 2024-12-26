@@ -26,7 +26,7 @@ I'm a MLOps Engineer living in Batumi, Georgia.
 - 🔧 VS Code, PyCharm, Jupyter Notebook/Lab, DataGrip, dbeaver, RStudio
 - 🔄 GitLab CI/CD, GitHub Actions, Jenkins, BitBucket Pipelines
 - 🐙 Airflow, Prefect
-- 📈 MLflow, Clear ML, DVC, Weights & Biases
+- 📈 MLflow, Clear ML, DVC, Evidently AI, Weights & Biases
 - 🔡 vLLM, LangChain, HuggingFace
 - 🐧 Linux, Bash, Git, Docker
 - ⚙️ Terraform, Ansible, Kubernetes, Helm
@@ -35,7 +35,8 @@ I'm a MLOps Engineer living in Batumi, Georgia.
 - 🤖 Scikit-Learn, XGBoost/LightGBM/CatBoost, Prophet
 - 🧠 PyTorch, Keras, TensorFlow
 - 💾 ClickHouse, MySQL, Oracle, PostgreSQL
-- 📦 S3, MinIO, Aerospike, Redis, MongoDB, HDFS
+- 📦 S3, MinIO, HDFS
+- 🗄️ Aerospike, Redis, MongoDB
 - 🌐 FastAPI, Flask, Dash, Streamlit, Gradio
 - ☁️ Yandex.Cloud
 - 🔍 Sentry, Grafana, Prometheus
