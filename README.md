@@ -9,6 +9,7 @@ I'm a MLOps Engineer living in Batumi, Georgia.
 - 🚬 I’m currently learning k8s, AWS and LLMOps.
 - 👀 I’m looking to collaborate on LLM start-up or open-source project.
 
+
 ## Contacts
 
 <a href="mailto:nick.osipov.91@gmail.com">
