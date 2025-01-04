@@ -19,7 +19,7 @@ I'm a MLOps Engineer living in Batumi, Georgia.
     <img src="https://img.shields.io/badge/-@NickOsipov-1877F2?style=flat&logo=Telegram&logoColor=white" width="120" height="25"/>
 </a>
 <a href="https://www.linkedin.com/in/nickosipov/">
-    <img src="https://img.shields.io/badge/-Nick_Osipov-0A66C2?style=flat&logo=LinkedIn&logoColor=white" width="120" height="25"/>
+    <img src="https://img.shields.io/badge/-Nick_Osipov-0A66C2?style=flat&logo=Linkedin&logoColor=white" width="120" height="25"/>
 </a>
 
 ## Skills
