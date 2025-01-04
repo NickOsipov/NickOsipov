@@ -19,10 +19,8 @@ I'm a MLOps Engineer living in Batumi, Georgia.
     <img src="https://img.shields.io/badge/-@NickOsipov-1877F2?style=flat&logo=Telegram&logoColor=white" width="120" height="25"/>
 </a>
 <a href="https://www.linkedin.com/in/nickosipov/">
-    <img src="https://img.shields.io/badge/-Nick_Osipov-0A66C2?style=flat&logo=Linkedin&logoColor=white" width="120" height="25"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Nick%20Osipov-0A66C2?logo=linkedin-white&logoColor=fff" width="120" height="25"/>
 </a>
-
-[![Nick Osipov](https://custom-icon-badges.demolab.com/badge/Nick%20Osipov-0A66C2?logo=linkedin-white&logoColor=fff)](#)
 
 ## Skills
 - 🐍 Python, R, SQL, PHP, Ruby
