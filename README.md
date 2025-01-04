@@ -22,7 +22,7 @@ I'm a MLOps Engineer living in Batumi, Georgia.
     <img src="https://img.shields.io/badge/-Nick_Osipov-0A66C2?style=flat&logo=Linkedin&logoColor=white" width="120" height="25"/>
 </a>
 
-[![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff)](#)
+[![Nick Osipov](https://custom-icon-badges.demolab.com/badge/Nick%20Osipov-0A66C2?logo=linkedin-white&logoColor=fff)](#)
 
 ## Skills
 - 🐍 Python, R, SQL, PHP, Ruby
