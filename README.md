@@ -21,13 +21,8 @@ I'm a MLOps Engineer living in Batumi, Georgia.
     <img src="https://custom-icon-badges.demolab.com/badge/Nick%20Osipov-0A66C2?logo=linkedin-white&logoColor=fff" width="120" height="25"/>
 </a>
 
-## GitHub Stats
-<div align="center" style="display: flex; flex-direction: row;">
-  <img height="170em" width="48%" src="https://github-readme-stats.vercel.app/api?username=NickOsipov&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickOsipov&layout=compact&langs_count=8&theme=github_dark"/>
-</div>
-
 ## Skills
+
 - 🐍 Python, R, SQL, PHP, Ruby
 - 🔧 VS Code, PyCharm, Jupyter Notebook/Lab, DataGrip, dbeaver, RStudio
 - 🔄 GitLab CI/CD, GitHub Actions, Jenkins, BitBucket Pipelines
@@ -53,6 +48,13 @@ I'm a MLOps Engineer living in Batumi, Georgia.
 English version: [Resume_NickOsipov_MLOps_EN.pdf](https://github.com/NickOsipov/resume/blob/main/Resume_NickOsipov_MLOps_EN.pdf)  
 Russian version: [Resume_NickOsipov_MLOps_RU.pdf](https://github.com/NickOsipov/resume/blob/main/Resume_NickOsipov_MLOps_RU.pdf)
   
+## GitHub Stats
+
+<div align="center" style="display: flex; flex-direction: row;">
+  <img height="170em" width="48%" src="https://github-readme-stats.vercel.app/api?username=NickOsipov&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickOsipov&layout=compact&langs_count=8&theme=github_dark"/>
+</div>
+
 <!---
 NickOsipov/NickOsipov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
