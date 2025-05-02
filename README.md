@@ -41,7 +41,7 @@ I'm a MLOps Engineer living in Batumi, Georgia.
 - 🗄️ Aerospike, Redis, MongoDB
 - 🌐 FastAPI, Flask, Dash, Streamlit, Gradio
 - ☁️ Yandex.Cloud
-- 🔍 Sentry, Prometheus, Grafana
+- 🔍 Sentry, Prometheus, Grafana, Loki
 
 ## Resume On LaTeX
 
