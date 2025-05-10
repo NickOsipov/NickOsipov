@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/QynPOjBgLR5Ryg1qKJ/giphy.gif" alt="GIF" width="40" height="40">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&section=header&text=HI" alt="Header" width="100%" height="200"/>
 
 ## About Me
 
