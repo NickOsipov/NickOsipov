@@ -40,7 +40,7 @@ I'm a MLOps Engineer living in Batumi, Georgia.
 - 📦 S3, MinIO, Ceph
 - 🗄️ Aerospike, Redis, MongoDB
 - 🌐 FastAPI, Flask, Dash, Streamlit, Gradio
-- ☁️ Yandex.Cloud
+- ☁️ Yandex.Cloud, GCP
 - 🔍 Sentry, Prometheus, Grafana, Loki
 
 ## Resume On LaTeX
