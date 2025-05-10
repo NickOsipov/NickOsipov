@@ -48,7 +48,7 @@ I'm a MLOps Engineer living in Batumi, Georgia.
 English version: [Resume_NickOsipov_MLOps_EN.pdf](https://github.com/NickOsipov/resume/blob/main/Resume_NickOsipov_MLOps_EN.pdf)  
 Russian version: [Resume_NickOsipov_MLOps_RU.pdf](https://github.com/NickOsipov/resume/blob/main/Resume_NickOsipov_MLOps_RU.pdf)
 
-# Commit Snake
+## Commit Snake
 
 <img src="https://raw.githubusercontent.com/NickOsipov/NickOsipov/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%" height="200"/>
 
