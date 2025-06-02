@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name is Nick!  
+My name is Nick! (Nikolai)  
 I'm a MLOps Engineer living in Batumi, Georgia.
 
 - 🧲 I’m interested in doing Data Science workflow easier.
