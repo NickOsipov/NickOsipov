@@ -26,7 +26,7 @@ I'm a MLOps Engineer living in Batumi, Georgia.
 - 🐍 Python, R, SQL, PHP, Ruby
 - 🔧 VS Code, PyCharm, Jupyter Notebook/Lab, DataGrip, dbeaver, RStudio
 - 🔄 GitLab CI/CD, GitHub Actions, Jenkins, BitBucket Pipelines
-- 🐙 Airflow, Prefect
+- 🐙 Airflow, Prefect, Argo Workflows
 - 📈 MLflow, Clear ML, DVC, Evidently AI, Weights & Biases
 - 🔡 Ollama, vLLM, LangChain, HuggingFace
 - 🐧 Linux, Bash, Git, Docker
@@ -40,7 +40,7 @@ I'm a MLOps Engineer living in Batumi, Georgia.
 - 📦 S3, MinIO, Ceph
 - 🗄️ Aerospike, Redis, MongoDB
 - 🌐 FastAPI, Flask, Dash, Streamlit, Gradio
-- ☁️ Yandex.Cloud, GCP
+- ☁️ Yandex.Cloud, AWS, GCP
 - 🔍 Sentry, Prometheus, Grafana, Loki
 
 ## Resume On LaTeX
