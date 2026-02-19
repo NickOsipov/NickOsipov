@@ -3,7 +3,7 @@
 ## About Me
 
 My name is Nick! (Nikolai)  
-I'm a MLOps Engineer living in Batumi, Georgia.
+I'm a MLOps Engineer living in Florianopolis, Brasil.
 
 - 🧲 I’m interested in doing Data Science workflow easier.
 - 🚬 I’m currently learning k8s, AWS and LLMOps.
